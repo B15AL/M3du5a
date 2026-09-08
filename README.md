@@ -4,7 +4,7 @@
 
 > **Status**: Work in progress. Core scanning + menu system is working. Attack features and nRF24 integration are still under development.
 
-![Device](images/schemetic.png)  
+![Device](images/shemetic.png)  
 ![Device](images/front.png)
 
 ---
